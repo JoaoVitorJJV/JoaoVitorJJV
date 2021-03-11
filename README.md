@@ -20,7 +20,7 @@ I'm a Frontend developer.
 - 💬 Ask me about C, HTML5, CSS3 and JavaScript.
 
 _________________________________________________________________________________________________________________________________________
-<h4>Languages:</h4>
+<h4 font-size = "15">Languages:</h4>
 
 <code><img margin="20" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
