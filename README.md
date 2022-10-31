@@ -16,8 +16,8 @@
 
 I'm a Frontend and Back-end developer.
 
-- 🔭 I’m currently working on HTML5, CSS3, C, Php, MVC, POO and Laravel.
-- 💬 Ask me about C, HTML5, CSS3, JavaScript, Php, Laravel, MVC, NodeJS and Jquery.
+- 🔭 I’m currently working on HTML5, CSS3, C, Php, Python, JavaScript, NodeJs and Java.
+- 💬 Ask me about C, HTML5, CSS3, JavaScript, Php, Laravel, MVC, NodeJs.
 
 _________________________________________________________________________________________________________________________________________
 <h4>Tools:</h4>
